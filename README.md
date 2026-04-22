@@ -2,6 +2,14 @@
 
 [Turkce](#turkce) | [English](#english)
 
+<p align="center">
+  <img src="https://images.pexels.com/photos/17483874/pexels-photo-17483874.png?cs=srgb&dl=pexels-googledeepmind-17483874.jpg&fm=jpg" alt="Abstract AI network illustration" width="100%">
+</p>
+
+<p align="center">
+  Hero image: <a href="https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-was-inspired-by-neural-networks-used-in-deep-learning-it-was-created-by-novoto-studio-as-part-of-the-visualising-ai-pr-17483874/">Google DeepMind on Pexels</a>
+</p>
+
 ## Turkce
 
 Claude Design'dan daha iyi sonuc almak icin hazirlanmis 7 tekrar kullanilabilir prompt-skill paketi.
